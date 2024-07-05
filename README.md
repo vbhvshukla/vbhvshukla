@@ -22,7 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav-shukla-iitm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-shukla-iitm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/quibble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="quibble" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/quibbble
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="quibble" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vslc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vslc" height="30" width="40" /></a>
 </p>
 
