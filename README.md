@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Shukla</h1>
 <h3 align="center">A passionate full stack MERN developer!</h3>
 
-- 🔭 I’m currently working on [Codaborator](https://github.com/vbhvshukla/codaborator)
+- 🔭 I’m currently working on [Carental! A Car Rental Platform](https://github.com/vbhvshukla/angularCarRental)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **AngularJS**
 
-- 👯 I’m worked on [Videotainment](https://github.com/vbhvshukla/ytFullStack)
+- 👯 I’ve worked on [Codaborator](https://github.com/vbhvshukla/codaborator)
 
-- 🤝 I’m implemented a [Gemini Enhanced Blogging Platform](https://github.com/vbhvshukla/reactappwriteBlog/)
+- 🤝 I’ve implemented a [Gemini Enhanced Blogging Platform](https://github.com/vbhvshukla/reactappwriteBlog/)
 
-- 👨‍💻 All of my projects are available at [https://atle.site](https://atle.site)
+- 👨‍💻 All of my projects are available at [Github!](https://github.com/vbhvshukla)
 
 - 💬 Ask me about **MERN,DSA,Anything?**
 
 - 📫 How to reach me **Rushukla7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12cbUjIwaQWyjJHyVAjQ-eP3cG7NlAOAd/view?usp=sharing](https://drive.google.com/file/d/12cbUjIwaQWyjJHyVAjQ-eP3cG7NlAOAd/view?usp=sharing)
+- 📄 Know about my experiences [Drive](https://drive.google.com/file/d/1Yy3uOJcG3ZgWPVTbDBA2Gnx3YGnLptRJ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm boring!**
 
